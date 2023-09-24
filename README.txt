@@ -1,4 +1,5 @@
-# Assignment 3
+To simulate the Paxos election algorithm using a multi-threaded approach
+
 
 ## Compile
 
